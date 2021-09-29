@@ -4,16 +4,14 @@ Restful API based E-commerce application
 Implemented using Postgres SQL, NODE.JS, and Express.JS.
 
 Steps to set-up backend:
-  1) Install PostgreSQL via https://www.postgresql.org/download/
-    - the password you use will only be for yourself
-  2) Install Visual Studio Code via https://code.visualstudio.com/download
-  ~~3) Install node.js' express framework and postgresql-node by calling "npm i express pg" in the terminal~~
-  4) Create workspace for Visual Studio
-  5) Pull code from this repo into that folder
-  6) Create your own config.js by following the format in config.format.js
-  7) Reference https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/
-  8) Create your queries
+  1) Install PostgreSQL
+  2) Install Visual Studio
+  3) Create a new project in V.S.
+  4) Pull code from this repo into that folder
+  5) Create your own config.js by following the format in config.format.js
+  6) Reference https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/
+  7) Create your queries
     -> create a new js file '<function>queries.js'
     -> follow queries.example.js
-  9) Create your endpoints in index.js
+  8) Create your endpoints in index.js
        
