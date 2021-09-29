@@ -1,0 +1,32 @@
+{
+  "name": "pending_title",
+  "version": "1.0.1",
+  "description": "pending_description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agonz969/CEN4021-Group-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agonz969/CEN4021-Group-10/issues"
+  },
+  "contributors": {
+    [
+      "Backend reworked from - https://github.com/JaredHummer/SE1Group4",
+      "Jared Hummer - https://github.com/JaredHummer",
+      "Gilbert Gomez - https://github.com/13gome0220",
+      "fgaddy07 - https://github.com/fgaddy07",
+      "Agustin Gonzalez - https://github.com/agonz969"
+    ]
+  },
+    "homepage": "https://github.com/agonz969/CEN4021-Group-10#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "pg": "^8.6.0"
+    }
+  }
