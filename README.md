@@ -15,3 +15,4 @@ Steps to set-up backend:
     -> follow queries.example.js
   8) Create your endpoints in index.js
        
+  UPDATE
